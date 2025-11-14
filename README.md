@@ -29,6 +29,7 @@
 ---
 
 ## 📫 About Me:
+- 🌐 WebApps 
 - 🎮 I develop Minecraft servers and custom plugins
 - 🌍 Based in Nepal
 - 🧠 I enjoy working with full stack projects, automation, and game integrations
